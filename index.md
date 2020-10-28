@@ -4,4 +4,14 @@ welcome to my crib
 
 [youtube](https://www.youtube.com/channel/UCJpt36_mq9M4sD4y_4ZQR0g?sub_confirmation=1)
 
-(yes i am a furry)
+FAQ: Do you have anything other than jokes to put here?
+
+No
+
+Why do you have a website?
+
+Good question
+
+Are you a furry
+
+Yes
