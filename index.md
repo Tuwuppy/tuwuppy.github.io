@@ -5,3 +5,5 @@ welcome to my crib
 FAQ: are you a furry
 
 yes
+
+[cc64majorlinks](https://tuwuppy.github.io/cc64majorlinks/)
