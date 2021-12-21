@@ -9,3 +9,5 @@ yes
 [cc64majorlinks](https://tuwuppy.github.io/cc64majorlinks/)
 
 [cult clicker](https://tuwuppy.github.io/Cult-Clicker)
+
+[cracker clicker](https://tuwuppy.github.io/cracker-clicker/)
